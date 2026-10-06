@@ -1,8 +1,8 @@
-# PhiloVista-1800: A Multi-source Benchmark
+# PhiloVista-1620: A Multi-source Benchmark
 
 A multi-source benchmark for philosophical image understanding. Given an image, the task is to select the three philosophical concepts best supported by its visual content, from a fixed vocabulary of 632 concepts.
 
-> Status: the repository currently hosts the **PhiloVista-1620** release (1,620 images). It will be extended to the full PhiloVista-1800 set.
+> Status: the repository currently hosts the **PhiloVista-1620** release (1,620 images). It will be extended to the full PhiloVista-1620 set.
 
 ## Directory layout
 
